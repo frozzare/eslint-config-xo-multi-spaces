@@ -1,9 +1,9 @@
 {
-  "name": "eslint-config-xo-multispace",
+  "name": "eslint-config-xo-multi-space",
   "version": "1.0.0",
   "description": "ESLint shareable config for XO with 2-space indent, key spacing and multi space",
   "license": "MIT",
-  "repository": "frozzare/eslint-config-xo-multispace",
+  "repository": "frozzare/eslint-config-xo-multi-space",
   "author": {
     "name": "Fredrik Forsmo",
     "email": "fredrik.forsmo@gmail.com",
