@@ -7,7 +7,7 @@ This is for advanced users. You probably want to use XO directly.
 ## Install
 
 ```
-$ npm install --save-dev eslint-config-xo-space
+$ npm install --save-dev eslint-config-xo-multispace
 ```
 
 ## Usage
