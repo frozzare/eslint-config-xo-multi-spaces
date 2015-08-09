@@ -1,6 +1,6 @@
 # eslint-config-xo-space [![Build Status](https://travis-ci.org/frozzare/eslint-config-xo-multi-space.svg?branch=master)](https://travis-ci.org/frozzare/eslint-config-xo-multi-space)
 
-> ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for [XO](https://github.com/sindresorhus/xo) with 2-space indent, key spacing and multi space.
+> ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for [XO](https://github.com/sindresorhus/xo) with 2-space indent, key spacing and multi spaces.
 
 This is for advanced users. You probably want to use XO directly.
 
