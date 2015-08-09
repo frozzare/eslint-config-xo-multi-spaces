@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xo-multi-spaces",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "ESLint shareable config for XO with 2-space indent, key spacing and multi spaces",
   "license": "MIT",
   "repository": "frozzare/eslint-config-xo-multi-spaces",
