@@ -16,10 +16,10 @@ Add some ESLint config to your `package.json`:
 
 ```json
 {
-	"name": "my-awesome-project",
-	"eslintConfig": {
-		"extends": "xo-multi-spaces"
-	}
+  "name": "my-awesome-project",
+  "eslintConfig": {
+    "extends": "xo-multi-spaces"
+  }
 }
 ```
 
@@ -27,7 +27,7 @@ Or to `.eslintrc`:
 
 ```json
 {
-	"extends": "xo-multi-spaces"
+  "extends": "xo-multi-spaces"
 }
 ```
 
@@ -35,7 +35,7 @@ This package also exposes [`xo-multi-spaces/esnext`](esnext.js) if you want ES20
 
 ```json
 {
-	"extends": "xo-multi-spaces/esnext"
+  "extends": "xo-multi-spaces/esnext"
 }
 ```
 
@@ -43,7 +43,7 @@ And [`xo-multi-spaces/browser`](browser.js) if you're in the browser:
 
 ```json
 {
-	"extends": "xo-multi-spaces/browser"
+  "extends": "xo-multi-spaces/browser"
 }
 ```
 
